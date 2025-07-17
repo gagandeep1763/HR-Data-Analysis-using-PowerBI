@@ -31,7 +31,7 @@ The dashboard provides insights into employee attrition, helping HR teams and de
 - Sample HR Dataset (synthetic)
 - DAX for calculated columns and measures
 
-![HR Dashboard Preview](./e59973ee-d060-4eab-9b77-2e36197e16d1.png)
+![HR Dashboard Preview](https://github.com/gagandeep1763/HR-Data-Analysis-using-PowerBI/blob/main/image%201.png)
 
 ## Usage
 
