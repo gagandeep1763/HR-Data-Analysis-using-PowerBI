@@ -38,6 +38,11 @@ The dashboard provides insights into employee attrition, helping HR teams and de
 This dashboard is intended for educational, demo, and portfolio purposes. It does not contain sensitive or proprietary data.
 
 
+## Developed By
+
+**Gagandeep D**  
+Google Certified UI/UX Designer  
+Aspiring Data Analyst
 
 
 
